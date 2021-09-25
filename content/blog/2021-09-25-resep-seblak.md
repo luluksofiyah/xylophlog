@@ -3,8 +3,6 @@ title: Resep seblak
 date: 2021-09-25T13:03:25.060Z
 description: seblak kuah
 ---
-
-
 1. 200 gram krupuk bawang, rendam air 1 jam
 2. 5 buah bakso ayam, potong2
 3. 3 batang sosis, potong serong
@@ -22,5 +20,3 @@ description: seblak kuah
 15. 4 buah cabe rawit merah (sesuai selera)
 16. 5 buah cabe merah kriting
 17. 2 ruas kencur
-
-<!--EndFragment-->
